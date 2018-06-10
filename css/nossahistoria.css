@@ -1,0 +1,37 @@
+
+.textoh1{
+    padding-top: 5%;
+    color: white;
+    font-family: "Bodoni MT";
+
+
+}
+
+.historia{
+    background-color: #1a237e;
+    height: 150px;
+    -webkit-box-shadow: 8px 8px 9px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    8px 8px 9px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         8px 8px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+figcaption{
+    position: absolute;
+    top:0px;
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+    width: 98%;
+    height: 96%;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: opacity 1s;
+    margin: 1%;
+
+}
+
+
+figure.foto-hist{
+    position: relative;
+
+
+}
