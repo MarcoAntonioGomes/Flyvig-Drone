@@ -1,0 +1,44 @@
+.construcoes{
+    background-color: #bd7600;
+    height: 100px;
+    -webkit-box-shadow: 8px 8px 9px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    8px 8px 9px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         8px 8px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+.textoh1{
+    padding-top: 2%;
+    color: white;
+    font-family: "Bodoni MT";
+
+
+}
+
+.img-eventos{
+    max-width:100%;
+    max-height:500px;
+    width: auto;
+    height: auto;
+    margin: 5%;
+    padding: 5%;
+
+}
+.texto{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.texto2{
+
+    padding-top: 8%;
+
+}
+
+p{
+    text-align: justify;
+
+}
+
+hr{
+    width: 70%;
+
+}

@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a69c2ec-b508-40eb-b783-cc246021f23c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/mapterritorios.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/terrscript.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mapeamentoterritorios.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/mapconstrucoes.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/consscript.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mapeamentoconstrucoes.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/coberturaeventos.html" afterPath="$PROJECT_DIR$/coberturaeventos.html" />
-      <change beforePath="$PROJECT_DIR$/css/estilo.css" afterPath="$PROJECT_DIR$/css/estilo.css" />
-      <change beforePath="$PROJECT_DIR$/img/lightbox/default-skin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/lightbox/default-skin.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/lightbox/preloader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/02.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/04.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/05.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/06.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/07.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/08.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/overlays/09.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/svg/arrow_left.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/svg/arrow_right.svg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/nossahistoria.html" afterPath="$PROJECT_DIR$/nossahistoria.html" />
     </list>
@@ -34,11 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nossahistoria.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nossahistoria.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nossahistoria.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="65" column="135" lean-forward="false" selection-start-line="65" selection-start-column="135" selection-end-line="65" selection-end-column="135" />
+            <state relative-caret-position="391">
+              <caret line="66" column="134" lean-forward="true" selection-start-line="66" selection-start-column="101" selection-end-line="66" selection-end-column="134" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapeamentoconstrucoes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mapeamentoconstrucoes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consscript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/consscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapconstrucoes.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mapconstrucoes.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -47,8 +62,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="57" column="134" lean-forward="false" selection-start-line="57" selection-start-column="100" selection-end-line="57" selection-end-column="134" />
+            <state relative-caret-position="187">
+              <caret line="58" column="134" lean-forward="false" selection-start-line="58" selection-start-column="134" selection-end-line="58" selection-end-column="134" />
               <folding />
             </state>
           </provider>
@@ -57,8 +72,8 @@
       <file leaf-file-name="coberturaeventos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coberturaeventos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="58" column="120" lean-forward="false" selection-start-line="58" selection-start-column="120" selection-end-line="58" selection-end-column="120" />
+            <state relative-caret-position="391">
+              <caret line="59" column="134" lean-forward="false" selection-start-line="59" selection-start-column="134" selection-end-line="59" selection-end-column="134" />
               <folding />
             </state>
           </provider>
@@ -67,8 +82,8 @@
       <file leaf-file-name="mapterritorios.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/mapterritorios.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -77,8 +92,8 @@
       <file leaf-file-name="mapeamentoterritorios.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mapeamentoterritorios.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="69" column="60" lean-forward="false" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
+            <state relative-caret-position="17">
+              <caret line="69" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -87,28 +102,8 @@
       <file leaf-file-name="terrscript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/terrscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="612">
               <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eventos.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/eventos.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -117,18 +112,8 @@
       <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="128" column="12" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nossahistoria.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/nossahistoria.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2176">
+              <caret line="128" column="12" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -166,10 +151,13 @@
         <option value="$PROJECT_DIR$/css/mapterritorios.css" />
         <option value="$PROJECT_DIR$/css/estilo.css" />
         <option value="$PROJECT_DIR$/js/terrscript.js" />
+        <option value="$PROJECT_DIR$/mapeamentoterritorios.html" />
+        <option value="$PROJECT_DIR$/css/mapconstrucoes.css" />
+        <option value="$PROJECT_DIR$/js/consscript.js" />
+        <option value="$PROJECT_DIR$/nossahistoria.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/coberturaeventos.html" />
-        <option value="$PROJECT_DIR$/mapeamentoterritorios.html" />
-        <option value="$PROJECT_DIR$/nossahistoria.html" />
+        <option value="$PROJECT_DIR$/mapeamentoconstrucoes.html" />
       </list>
     </option>
   </component>
@@ -180,13 +168,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="y" value="5" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1230" />
+    <option name="y" value="-149" />
     <option name="width" value="812" />
     <option name="height" value="565" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -202,12 +192,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LiveDrone" type="b2602c69:ProjectViewProjectNode" />
               <item name="LiveDrone" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="LiveDrone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LiveDrone" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="LiveDrone" type="b2602c69:ProjectViewProjectNode" />
@@ -219,7 +215,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,18 +274,19 @@
       <workItem from="1526505545503" duration="1378000" />
       <workItem from="1527542142534" duration="13376000" />
       <workItem from="1528212439170" duration="644000" />
-      <workItem from="1528574040605" duration="32124000" />
+      <workItem from="1528574040605" duration="32682000" />
+      <workItem from="1528728975161" duration="3596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134707000" />
+    <option name="totallyTimeSpent" value="138861000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-1448" y="-247" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21029411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19930555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -321,22 +317,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/7º Periodo/projeto-glass-html5/_css/estilo.css" />
     <entry file="file://$PROJECT_DIR$/MDB Free/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -430,13 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="191" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$USER_HOME$/Desktop/Site_C-BootStrap/index.html" />
     <entry file="file://$PROJECT_DIR$/../mysites/wp-content/themes/energico/template-parts/content-page.php" />
     <entry file="file://$PROJECT_DIR$/../mysites/wp-content/themes/energico/config/layout.php" />
@@ -489,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="3282" column="1" lean-forward="false" selection-start-line="3282" selection-start-column="1" selection-end-line="3282" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,14 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/mapterritorios.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -527,48 +492,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="128" column="12" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="34" />
+        <state relative-caret-position="2176">
+          <caret line="128" column="12" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/terrscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="612">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="57" column="134" lean-forward="false" selection-start-line="57" selection-start-column="100" selection-end-line="57" selection-end-column="134" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coberturaeventos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="58" column="120" lean-forward="false" selection-start-line="58" selection-start-column="120" selection-end-line="58" selection-end-column="120" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mapeamentoterritorios.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="69" column="60" lean-forward="false" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
+        <state relative-caret-position="17">
+          <caret line="69" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="265" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mapterritorios.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="58" column="134" lean-forward="false" selection-start-line="58" selection-start-column="134" selection-end-line="58" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coberturaeventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="59" column="134" lean-forward="false" selection-start-line="59" selection-start-column="134" selection-end-line="59" selection-end-column="134" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nossahistoria.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="65" column="135" lean-forward="false" selection-start-line="65" selection-start-column="135" selection-end-line="65" selection-end-column="135" />
+        <state relative-caret-position="391">
+          <caret line="66" column="134" lean-forward="true" selection-start-line="66" selection-start-column="101" selection-end-line="66" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/consscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mapconstrucoes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapeamentoconstrucoes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
           <folding />
         </state>
       </provider>
