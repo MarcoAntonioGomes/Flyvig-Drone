@@ -1,5 +1,5 @@
-.construcoes{
-    background-color: #bd7600;
+.plantacoes{
+    background-color: #7cb342;
     height: 100px;
     -webkit-box-shadow: 8px 8px 9px 0px rgba(50, 50, 50, 0.75);
     -moz-box-shadow:    8px 8px 9px 0px rgba(50, 50, 50, 0.75);
@@ -14,24 +14,21 @@
 
 }
 
-.img-eventos{
-    max-width:100%;
-    max-height:500px;
-    width: auto;
-    height: auto;
-    margin: 5%;
-    padding: 5%;
-
+.img-plant{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 15%;
 }
 .texto{
     padding-top: 5%;
     padding-left: 5%;
 }
+
 .texto2{
-
-    padding-top: 8%;
-
+    padding-top: 5%;
+    padding-right: 5%;
 }
+
 
 p{
     text-align: justify;
@@ -43,14 +40,8 @@ hr{
 
 }
 
-.img-cons{
-    width: 70%;
-    margin:  5%;
-}
-
-.img-cons2{
-    width: 75%;
-    margin-left: 15%;
+.video{
     margin-top: 5%;
+    margin-left: 5%;
 
 }
