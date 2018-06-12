@@ -54,3 +54,11 @@ hr{
     margin-top: 5%;
 
 }
+
+.alteraCorMenu.hvr-underline-from-center:before{
+    background: #bd7600;
+}
+
+.alteraCorDrop.hvr-shutter-out-horizontal:before{
+    background: #bd7600;
+}

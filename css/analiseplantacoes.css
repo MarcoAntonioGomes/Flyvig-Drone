@@ -45,3 +45,11 @@ hr{
     margin-left: 5%;
 
 }
+
+.alteraCorMenu.hvr-underline-from-center:before{
+    background: #60d126;
+}
+
+.alteraCorDrop.hvr-shutter-out-horizontal:before{
+    background: #60d126;
+}

@@ -35,3 +35,11 @@ figure.foto-hist{
 
 
 }
+
+.alteraCorMenu.hvr-underline-from-center:before{
+    background: #0D47A1;
+}
+
+.alteraCorDrop.hvr-shutter-out-horizontal:before{
+    background: #0D47A1;
+}

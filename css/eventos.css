@@ -41,6 +41,14 @@ p{
 }
 
 hr{
-  width: 70%;
+    width: 70%;
 
+}
+
+.alteraCorMenu.hvr-underline-from-center:before{
+    background: #4a148c;
+}
+
+.alteraCorDrop.hvr-shutter-out-horizontal:before{
+    background:  #4a148c;
 }
